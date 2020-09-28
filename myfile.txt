@@ -1,1 +1,5 @@
+ HEAD
 This is an original commandThis is a line added from Local Git.
+
+This is an original command. This is the line added from the remote server.
+0c6afb7527af09b6faabcd0ebd5b022b50c53cff
